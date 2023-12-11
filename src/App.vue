@@ -150,7 +150,6 @@ h2 {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  /* align-items: center; */
   padding: 20px 40px;
   max-width: 700px;
 }
@@ -167,7 +166,7 @@ h2 {
 .bottom-main button:hover {
   background-color: transparent;
   color: rgb(9, 28, 56);
-  border: 2px solid rgb(9, 28, 56);
+  outline: 2px solid rgb(9, 28, 56);
 }
 
 .p-1 {
